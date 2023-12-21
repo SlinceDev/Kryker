@@ -5,5 +5,16 @@ Kryker es una navegador web con herramientas Haker funcionales que te ayudaran a
 
 # 🚧 Dessarrollo
 
-Kryker todavia se encuentra en un estado de desarrollo muy primordial y de omento no tenemos fecha del lanzamiento de la Alfa.
+Kryker todavia se encuentra en un estado de desarrollo muy primordial y de momento no tenemos fecha del lanzamiento de la Alfa.
+
 Puedes seguir el desarrollo en mi Instagram: [aquí](https://www.instagram.com/slince_dev/)
+
+### Lenguajes ⌨️
+
+<a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+Html y CSS
+
+# 🧑‍💻 Colaboradores
+
+- Slince Dev
+  
